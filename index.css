@@ -1,5 +1,7 @@
 
 
+
+
 * {
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
@@ -56,12 +58,13 @@ body {
     display: inline-block;
     height: 100%;
     margin-right: 230px;
+    padding-right: 10px;
 }
 
 .menu__list-item2 {
     display: inline-block;
     height: 100%;
-    margin-left: 60px;
+    margin-left: 0px;
 }
 
 .menu__link {
@@ -135,6 +138,4 @@ body {
     margin-left: 0px;
     border-radius: 50%;
 }
-
-
 
